@@ -1,7 +1,9 @@
-# KlipperLCD (for Elegoo Neptune 3 Pro LCD screen)
-Want to run Klipper on your Neptune 3 Pro? And still want to be able to use your Neptune 3 Pro LCD touch screen?
+# KlipperLCD (for Qidi X-3 series LCD screens)
+Want to run an recent Klipper on your X-3 series Qidi printer?
+You can do that but it will break the communication to the touch screen.
+This repository will care about that and get you screen back and better then before ;)
 
-Take a look at this python service for the Elegoo Neptune 3 Pro LCD! Running together with Klipper3d and Moonraker!
+Running together with Klipper3d and Moonraker!
 
 ## Look and feel
 <p float="left">
